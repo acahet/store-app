@@ -5,7 +5,7 @@ import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 function Header() {
 	return (
 		<div className="header">
-			<img src="https://fontmeme.com/permalink/201031/9e586244759b6358562bf4b512e3553e.png" alt="store app" />
+			<img src="https://fontmeme.com/permalink/201031/a73515db793e7b75a3e63fd22985f611.png" alt="nadu design" />
 			<div className="header__search">
 				<input className="header__searchInput" type="text" />
 				<SearchIcon className="header__searchIcon" />
